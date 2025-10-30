@@ -1,6 +1,4 @@
-# PROJECT-J
-PROYECTO DE C++, PARA PEQUEÑOS EMPRENDIMIENTOS
-copiar remarcando el codigo y despues lo peguan el la app de play stre c++:
+
 #include <iostream>
 
 using namespace std;
